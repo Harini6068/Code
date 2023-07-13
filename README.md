@@ -1,8 +1,8 @@
-# Koo-Landing-Page
 # HTML CSS JS Repository
 
 This is a simple (Landing page) web project that shows how to use HTML, JS and CSS using various mini projects.
-<img src="https://raw.githubusercontent.com/sumanshekhar698/HTML_CSS_JS/main/header-logo.png" alt="Screenshot" style="max-width: 100%;">
+
+<img src="https://media.licdn.com/dms/image/D4D12AQF7lMBGIwHUCw/article-inline_image-shrink_1000_1488/0/1680955326122?e=1694044800&v=beta&t=LzzqB9cwD_1V8sMvhA8YzuWB7ZCVXyJimUde3yV3dck" alt="Screenshot" style="max-width: 100%;">
 
 ## How to use
 
