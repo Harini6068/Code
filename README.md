@@ -2,6 +2,7 @@
 # HTML CSS JS Repository
 
 This is a simple (Landing page) web project that shows how to use HTML, JS and CSS using various mini projects.
+<img src="https://raw.githubusercontent.com/sumanshekhar698/HTML_CSS_JS/main/header-logo.png" alt="Screenshot" style="max-width: 100%;">
 
 ## How to use
 
